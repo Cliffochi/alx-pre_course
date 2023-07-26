@@ -1,1 +1,4 @@
-touch
+git branch master
+git fetch origin
+git pull origin master
+git push origin master
